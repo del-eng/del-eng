@@ -5,6 +5,5 @@
 - 📫 How to reach me delinquent-eng@protonmail.com
 
 <!---
-del-eng/del-eng is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+This repo is currently a mess!
 --->
